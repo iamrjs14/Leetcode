@@ -16,5 +16,7 @@ public class RotateArray {
         String[] both = Stream.concat(Arrays.stream(lastSplit), Arrays.stream(firstSplit))
                 .toArray(String[]::new);
         System.out.println(Arrays.toString(both));
+        String x = "Hi";
+
     }
 }
