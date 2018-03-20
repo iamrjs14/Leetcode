@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="408a5b73-7bc1-4315-82b1-6551b5c35d09" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/StringReverse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LongestSubPalindrome.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,11 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StringReverse.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringReverse.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StringReverse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
               <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestSubPalindrome.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LongestSubPalindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -51,6 +61,7 @@
         <option value="$PROJECT_DIR$/src/RepeatElement.java" />
         <option value="$PROJECT_DIR$/src/LongestSubstring.java" />
         <option value="$PROJECT_DIR$/src/StringReverse.java" />
+        <option value="$PROJECT_DIR$/src/LongestSubPalindrome.java" />
       </list>
     </option>
   </component>
@@ -328,6 +339,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LongestSubPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding />
         </state>
       </provider>
