@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class MaximumGuest {
@@ -25,6 +22,7 @@ public class MaximumGuest {
         lst.add(a1);
         lst.add(a2);
         mg.findGuest(lst);
+        TreeSet ts = new TreeSet(lst);
 
     }
 }

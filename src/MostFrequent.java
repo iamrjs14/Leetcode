@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.HashMap;
 
 public class MostFrequent {
@@ -21,8 +22,8 @@ public class MostFrequent {
             }
             map.put(n, counter);
         }
-        for(int i=0;i<2;i++) {
-            System.out.println(map.keySet().toArray()[i]);
+        for(int i=0;i<k;i++) {
+            Arrays.sort(map.values().toArray());
         }
     }
 }
